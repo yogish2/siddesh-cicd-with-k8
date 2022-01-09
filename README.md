@@ -1,6 +1,1 @@
 Simple Maven Project
-###
-
-#####
-$$$$$
-####
